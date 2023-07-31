@@ -12,7 +12,3 @@ Type "help", "copyright", "credits" or "license()" for more information.
 5   2   25
 6   2   36
 
-
-
-C:\Users\Administrator\Desktop\따라하며\chapter.3 심화문제 풀이C:\Users\Administrator\Desktop\따라하며\chapter.3 심화문제 풀이\p.88 3.1.py
-C:\Users\Administrator\Desktop\따라하며\chapter.3 심화문제 풀이\p.88 3.1.pyfg
